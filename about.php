@@ -1,0 +1,1 @@
+<?php include $_SERVER['DOCUMENT_ROOT'] .'/library/files/beginning.php';?><p>This is a test site for the Gigi Project.</p><?php include $_SERVER['DOCUMENT_ROOT'] .'/library/files/ending.php';?>

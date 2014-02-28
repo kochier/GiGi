@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /library/
+Disallow: /404.php
+Disallow: /403.php
+Disallow: /401.php

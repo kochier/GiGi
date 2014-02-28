@@ -1,0 +1,1 @@
+<?php include $_SERVER['DOCUMENT_ROOT'] .'/library/files/beginning.php';?><?php include $_SERVER['DOCUMENT_ROOT'] .'/library/files/ending.php';?>

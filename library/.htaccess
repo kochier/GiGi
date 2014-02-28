@@ -1,0 +1,9 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /home/kochier/.htpasswdgigi
+AuthGroupFile /dev/null 
+require valid-user
+RewriteEngine on
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|CSS|swf)$">
+  Header set Expires "Thu, 15 Apr 2032 20:00:00 GMT"
+</FilesMatch>
